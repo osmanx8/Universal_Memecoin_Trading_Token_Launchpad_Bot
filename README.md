@@ -26,8 +26,8 @@ Tech-Typescript Rust Mongodb
 - User authentication and token tracking
 - Modern React frontend with Material-UI
 <img src="https://github.com/osmanx8/Universal_Memecoin_Trading_Token_Launchpad_Bot/tree/main/assets/bot(1).png" alt="bot1" />
-<img src="/assets/bot(2).png" alt="bot2" />
-<img src="/assets/bot(3).png" alt="bot3" />
+<img src="https://github.com/osmanx8/Universal_Memecoin_Trading_Token_Launchpad_Bot/tree/main/assets/bot(2).png" alt="bot2" />
+<img src="https://github.com/osmanx8/Universal_Memecoin_Trading_Token_Launchpad_Bot/tree/main/assets/bot(3).png" alt="bot3" />
 ## Prerequisites
 
 - Node.js (v16 or higher)
