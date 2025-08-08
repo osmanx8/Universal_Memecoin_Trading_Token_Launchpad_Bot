@@ -1,0 +1,12 @@
+{
+  "watch": ["*.ts", "controllers/", "middleware/", "utils/"],
+  "ignore": [
+    "vanity.json",
+    "uploads/",
+    "target/",
+    "node_modules/",
+    "*.log"
+  ],
+  "ext": "ts,js",
+  "exec": "ts-node index.ts"
+} 

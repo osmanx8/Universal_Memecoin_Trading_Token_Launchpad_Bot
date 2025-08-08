@@ -1,0 +1,8 @@
+{
+  "uuid": "751f7390-2f50-11f0-858a-6bee29fce9c1",
+  "rpc": {
+    "mainnet": "https://mainnet.helius-rpc.com/?api-key=a8769523-bf96-4884-bcc0-cf79af6acce3",
+    "wss": "wss://mainnet.helius-rpc.com/?api-key=a8769523-bf96-4884-bcc0-cf79af6acce3"
+  },
+  "commitment": "confirmed"
+} 
