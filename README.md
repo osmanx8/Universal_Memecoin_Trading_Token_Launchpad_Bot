@@ -1,6 +1,6 @@
-# Universal Memecoin Trading Token Launchpad Bot
+# 🚀Universal Memecoin Trading Token Launchpad Bot
 
-A full-stack application for minting Solana memecoint tokens with metadata upload to IPFS.
+🌟A full-stack application for minting Solana memecoint tokens with metadata upload to IPFS.
 With Bonkfun and Pumpfun fork launchpad including universal bots, 
 User-friendly customized token launch, universal trading bots
 Tech-Typescript Rust Mongodb
