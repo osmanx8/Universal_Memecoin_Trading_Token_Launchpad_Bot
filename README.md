@@ -25,9 +25,9 @@ Tech-Typescript Rust Mongodb
 - Vanity mint key generation
 - User authentication and token tracking
 - Modern React frontend with Material-UI
-<img src="/assets/ bot (1).png" alt="bot1" />
-<img src="/assets/ bot (2).png" alt="bot2" />
-<img src="/assets/ bot (3).png" alt="bot3" />
+<img src="../assets/bot(1).png" alt="bot1" />
+<img src="../assets/bot(2).png" alt="bot2" />
+<img src="./assets/bot(3).png" alt="bot3" />
 ## Prerequisites
 
 - Node.js (v16 or higher)
