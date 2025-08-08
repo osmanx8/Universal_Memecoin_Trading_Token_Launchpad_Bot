@@ -1,6 +1,21 @@
-# Solana Token Minting Tool
+# Universal Memecoin Trading Token Launchpad Bot
 
-A full-stack application for minting Solana tokens with metadata upload to IPFS.
+A full-stack application for minting Solana memecoint tokens with metadata upload to IPFS.
+With Bonkfun and Pumpfun fork launchpad including universal bots, 
+User-friendly customized token launch, universal trading bots
+Tech-Typescript Rust Mongodb
+#Pump AMM 
+#Raydium V4
+#Raydium CPMM
+#Raydium CLMM
+#Meteora DLMM 
+#Meteora Dynamic AMM
+#Meteora DAMM V2
+#Ocra 
+#Solfi 
+#Vertigo 
+#Bonkfun
+@Bundler @sniper @volume @copy-trading 
 
 ## Features
 
@@ -14,58 +29,10 @@ A full-stack application for minting Solana tokens with metadata upload to IPFS.
 ## Prerequisites
 
 - Node.js (v16 or higher)
+-Typescript
 - Rust (for Solana wallet generation)
 - MongoDB (for data storage)
 
-## Setup
-
-### 1. Clone the repository
-```bash
-git clone <your-repo-url>
-cd bundler
-```
-
-### 2. Backend Setup
-```bash
-cd back
-npm install
-```
-
-### 3. Frontend Setup
-```bash
-cd ../front
-npm install
-```
-
-### 4. Environment Variables
-
-Create a `.env` file in the `back` directory:
-```env
-MONGODB_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret_key
-PINATA_API_KEY=your_pinata_api_key
-PINATA_SECRET_KEY=your_pinata_secret_key
-```
-
-### 5. Build Rust Binary
-```bash
-cd back
-cargo build --release
-```
-
-### 6. Start the Application
-
-**Backend:**
-```bash
-cd back
-npm start
-```
-
-**Frontend:**
-```bash
-cd front
-npm start
-```
 
 ## Project Structure
 
